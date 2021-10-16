@@ -1,0 +1,39 @@
+body {
+  background-color: #F4D200;
+}
+
+.App {
+  margin: 50px;
+  font-family: Magista Brush;
+  font-size: 20px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Magista Brush';
+  src: url('Magista Brush.ttf');
+}
+
+.titulo {
+  text-align: center;
+  font-size: 50px;
+  color: #3B8904;
+}
+
+input {
+  font-family: Magista Brush;
+  background-color: floralwhite;
+  color: #04B481;
+  font-size: 110%;
+  text-align: center;
+}
+
+p {
+  font-size: 120%;
+}
+
+.hola {
+  font-size: 170%;
+  color: #7F0473;
+}
+
